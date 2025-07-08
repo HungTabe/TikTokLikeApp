@@ -13,6 +13,10 @@
 - **Enhanced UI/UX**: Material Design components, progress indicators, and confirmation dialogs for a polished and intuitive user experience.
 - **Main Navigation Hub**: A central screen to navigate between video scrolling and link management activities.
 
+## Demo App
+
+[![Video demo](https://img.youtube.com/vi/uFKvmYb_kOM/0.jpg)](https://www.youtube.com/shorts/uFKvmYb_kOM)
+
 ## Prerequisites
 
 To build and run the project, ensure you have the following:
